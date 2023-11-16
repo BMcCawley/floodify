@@ -1,0 +1,56 @@
+[
+    {
+        "name": "charcoal_hole",
+        "parameter": "orifice_height",
+        "bounds": [
+            1,
+            1
+        ],
+        "initial": 1
+    },
+    {
+        "name": "charcoal_hole",
+        "parameter": "orifice_width",
+        "bounds": [
+            0.1,
+            2.5
+        ],
+        "initial": 0.1
+    },
+    {
+        "name": "dean_lane_upper",
+        "parameter": "orifice_height",
+        "bounds": [
+            1,
+            1
+        ],
+        "initial": 1
+    },
+    {
+        "name": "dean_lane_upper",
+        "parameter": "orifice_width",
+        "bounds": [
+            0.1,
+            2.5
+        ],
+        "initial": 0.1
+    },
+    {
+        "name": "dean_lane_lower",
+        "parameter": "orifice_height",
+        "bounds": [
+            1,
+            1
+        ],
+        "initial": 1
+    },
+    {
+        "name": "dean_lane_lower",
+        "parameter": "orifice_width",
+        "bounds": [
+            0.1,
+            2.5
+        ],
+        "initial": 0.1
+    }
+]

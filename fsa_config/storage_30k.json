@@ -1,0 +1,41 @@
+[
+    {
+        "name": "charcoal_hole",
+        "parameters": {
+            "orifice_invert": 218.407,
+            "orifice_height": 1,
+            "orifice_width": 1.62092395569838,
+            "orifice_coefficient": 0.6,
+            "weir_invert": 223.144,
+            "weir_width": 50.4,
+            "weir_coefficient": 1.705,
+            "initial_stage": 219.381
+        }
+    },
+    {
+        "name": "dean_lane_upper",
+        "parameters": {
+            "orifice_invert": 203.063,
+            "orifice_height": 1,
+            "orifice_width": 1.67806444718965,
+            "orifice_coefficient": 0.6,
+            "weir_invert": 206.190,
+            "weir_width": 102.8,
+            "weir_coefficient": 1.705,
+            "initial_stage": 203.350
+        }
+    },
+    {
+        "name": "dean_lane_lower",
+        "parameters": {
+            "orifice_invert": 194.444,
+            "orifice_height": 1,
+            "orifice_width": 1.20465915245781,
+            "orifice_coefficient": 0.6,
+            "weir_invert": 198.694,
+            "weir_width": 35.5,
+            "weir_coefficient": 1.705,
+            "initial_stage": 194.635
+        }
+    }
+]
